@@ -140,7 +140,7 @@ def run_company_summary(company: str):
 
 # Example:
 if __name__ == "__main__":
-    company_name = "Acme CorpX"
+    company_name = "Acme Corp"
     final_output = run_company_summary(company_name)
     print('\n✅ Final summary :: \n')
     print(final_output)
